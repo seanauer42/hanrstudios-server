@@ -1,0 +1,90 @@
+.body-text {
+	margin-left: 10%;
+	top: 0;
+}
+
+.answer {
+	color: green;
+	padding-left: 2.7%;
+	padding-top: 15px;
+	font-size: 22px;
+	text-align: left;
+}
+
+.link-list {
+	border-top: 2px solid;
+	border-bottom: 2px solid;
+	border-left: 2px solid;
+	border-right: 2px solid;
+	margin-left: 35%;
+	margin-right: 35%;
+	text-align: center;
+}
+
+li {
+	font-size: 26px;
+	font-weight: bold;
+	padding-left: 1.5%;
+	padding-top: 30px;
+	text-align: left;
+}
+
+h3 {
+	color: green;
+	padding-left: 2.7%;
+	text-align: left;
+}
+
+h2 {
+	padding-left: 1.5%;
+	text-align: left;
+}
+
+h1 {
+	text-align: center;
+}
+
+.sidebar {
+	width: 10%;
+	position: absolute;
+	left: 0;
+	top: 0;
+	padding-bottom: 20px;
+	text-align: center;
+	font-size: 18px;
+}
+
+ol li {
+	counter-increment: fun;
+}
+
+ol li:before {
+	content: counter(fun) ". ";
+	font-size:26px;
+}
+
+ol {
+	
+	counter-reset: fun;
+	list-style: none;
+}
+
+ul li {
+}
+
+ul li:before {
+	content: "• ";
+	font-size:26px;
+}
+
+ul {
+	list-style: none;
+}
+
+.bottom {
+	text-align: center;
+	margin-left: 5%;
+	margin-right: 5%;
+	width: 90%;
+	position: absolute;
+}
