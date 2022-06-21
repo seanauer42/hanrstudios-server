@@ -11,6 +11,26 @@
 	text-align: left;
 }
 
+table, th, tr {
+	border: 1px solid;
+	border-collapse: collapse;
+	width: 50%;
+}
+
+ul li .incorrect {
+	padding-left: 0;
+}
+
+.incorrect {
+	color: red;
+	padding-left: 2.7%;
+	padding-top: 15px;
+	font-size: 22px;
+	text-align: left;
+}
+
+
+
 .link-list {
 	border-top: 2px solid;
 	border-bottom: 2px solid;
