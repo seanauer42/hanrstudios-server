@@ -1,5 +1,5 @@
 .body-text {
-	margin-left: 15%;
+	margin-left: 10%;
 	top: 0;
 }
 
@@ -65,13 +65,23 @@ h1 {
 }
 
 .sidebar {
-	width: 15%;
+	width: 20%;
 	position: absolute;
 	left: 0px;
 	top: 0;
 	padding-bottom: 20px;
 	text-align: center;
 	font-size: 18px;
+}
+
+.sidebar hr {
+	margin-right: 30px;
+	margin-left: 30px;
+}
+
+.sidebar a {
+	margin-right: 35px;
+	margin-left: 30px;
 }
 
 @media (max-width: 700px){
@@ -81,6 +91,16 @@ h1 {
 	.body-text {
 		margin-left: 5%;
 	}
+}
+
+.sidebar:hover {
+	width: 250px;
+	position: absolute;
+	left: 0px;
+	top: -100px;
+	padding-bottom: 20px;
+	text-align: center;
+	font-size: 18px;
 }
 
 .hamburger {
