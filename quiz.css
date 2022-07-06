@@ -74,6 +74,15 @@ h1 {
 	font-size: 18px;
 }
 
+@media (max-width: 700px){
+	.sidebar {
+		display: none;
+	}
+	.body-text {
+		margin-left: 5%;
+	}
+}
+
 ol li {
 	counter-increment: fun;
 }
