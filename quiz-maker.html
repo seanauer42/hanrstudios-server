@@ -1,38 +1,40 @@
 <!DOCTYPE html>
 
 <head>
-	<meta charset="UTF-8">
-	<link type="text/css" rel="stylesheet" href="quiz.css">
-	<meta name="viewport" content="width-device-width, initial-scale=1.0">
-	<script type="text/javascript" src="quiz-maker.js"></script>
-	<title>Han-r Studios | Quiz Maker</title>
+    <meta charset="UTF-8">
+    <link type="text/css" rel="stylesheet" href="quiz.css">
+    <meta name="viewport" content="width-device-width, initial-scale=1.0">
+    <script type="text/javascript" src="quiz-maker.js"></script>
+    <title>Han-r Studios | Quiz Maker</title>
 </head>
 
 <body>
-	<h1>Make a new quiz</h1>
-	
-	<h2>Attention: you will need a github account to submit a quiz.</h2>
-	
-	<label for="qname">Quiz Name:</label>
-	<input type="text" id="qname"><br>
-	<br>
-	<ol id="new-quiz-list">
-		
-	</ol>
-	<br>
-	
-	<label for="question">Question:</label><input type="text" id="question">
-	<label for="answer">Answer:</label><input type="text" id="answer">
-	
-	<button onclick="addQuestion()">add question</button>
-	
-	<br><button onclick="submitQuiz()">Submit</button>
-	
-	<div class="bottom">
-		<p><a href="https://hanrstudios.com/tests">Back to Tests</a>   |    <a href="www.hanrstudios.com">Home</a></p>
-	</div>
-	
-	
+    <h1>Make a new quiz</h1>
+    
+    <h2>Attention: you will need a github account to submit a quiz.</h2>
+    
+    <label for="qname">Quiz Name:</label>
+    <input type="text" id="qname"><br>
+    <br>
+    <ol id="new-quiz-list">
+        
+    </ol>
+    <br>
+    
+    <label for="question">Question:</label><input type="text" id="question">
+    <label for="answer">Answer:</label><input type="text" id="answer">
+    
+    <button onclick="addQuestion()">add question</button>
+    
+    <br><button onclick="submitQuiz()">Submit Via Github</button>
+    <br><button onclick="emailQuiz()">Email Quiz</button>
+    
+    
+    <div class="bottom">
+        <p><a href="https://hanrstudios.com/fedex/tests">Back to Tests</a>   |    <a href="https://www.hanrstudios.com">Home</a></p>
+    </div>
+    
+    
 </body>
 
 </html>
