@@ -43,6 +43,15 @@ function submitQuiz() {
 	alert("Thanks for your contribution")
 }
 
+function emailQuiz() {
+    let qName = document.getElementById("qname").value
+    let quest = document.getElementById("new-quiz-list").outerHTML
+    quest.split(' ').join('+')
+    
+    window.open('mailto:lex@hanrstudios.com?subject=' + qName + '&body=' + quest)
+    alert("Thanks for your contribution")
+}
+
 //  I don't want to have to type this everytime to make sure I'm protected from injection
 // <button onclick="alert('nothing to see here')">don't click</button>
 
