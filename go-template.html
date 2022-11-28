@@ -1,0 +1,41 @@
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<link type="text/css" rel="stylesheet" href="../quiz.css">
+	<meta name="viewport" content="width-device-width, initial-scale=1.0">
+	<title>Han-r Studios | {{ .PageTitle }}</title>
+</head>
+
+<body>
+
+<div class="sidebar">
+	<br><a href="../dangerous-goods-awareness">Dangerous Goods Awareness</a>
+	
+	{{ .QuizLinks }}
+	
+
+</div>
+
+<div class="body-text">
+	<h1>{{ .PageTitle }}</h1>
+
+<ol>
+{{range .Questions }}
+	{{if .Correct}}
+		<li> {{ .Question }}
+		<div class="answer">{{ .Answer }}</div></li>
+	{{else}}
+		<li>{{ .Question }}
+		<div class="incorrect">{{ .Answer }}</div></li>
+	{{end}}
+{{ end }}
+
+</div>
+
+	<div class="bottom">
+		<p><a href="https://hanrstudios.com/tests">Back to Tests</a>   |    <a href="https://www.hanrstudios.com">Home</a></p>
+	</div>
+
+
+</body></html>
