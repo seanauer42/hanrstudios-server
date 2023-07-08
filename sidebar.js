@@ -37,6 +37,7 @@ s.innerHTML = `<br><a href="../dangerous-goods-awareness">Dangerous Goods Awaren
 	<br><hr><a href="../fuel-service-form">Fuel Service Form</a>
 	
 	<br><hr><a href="../information-security-and-data-privacy">Information Security and Data Privacy</a>
+ 	<br><hr><a href="../heat-illness-prevention-plan">Heat Illness Prevention Plan</a>
 	`
 	
 let stringTitle = ""
