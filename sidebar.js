@@ -3,7 +3,7 @@ s.innerHTML = `<br><a href="../767-reccurent">767 Reccurrent</a>
 	<br><hr><a href="../767-etops">767 ETOPS</a>
  	<br><hr><a href="../777-recurrent">777 Recurrent</a>
   	<br><hr><a href="../777-etops">777 ETOPS</a>
-   	<br><hr><a href="../777-rvsm-line-mx-exam>777 RVSM Line Mx Exam</a>
+   	<br><hr><a href="../777-rvsm-line-mx-exam">777 RVSM Line Mx Exam</a>
 
 	<br><hr><a href="../abbreviated-air-quality">Abbreviated Air Quality</a>
  	<br><hr><a href="../active-threat-awareness">Active Threat Awareness</a>
@@ -23,7 +23,7 @@ s.innerHTML = `<br><a href="../767-reccurent">767 Reccurrent</a>
    	<br><hr><a href="../fire-extinguisher">Fire Extinguisher</a>
    	<br><hr><a href="../fuel-service-form">Fuel Service Form</a>
    	<br><hr><a href="../general-ewis-practices">General EWIS Practices</a>
-   	<br><hr><a href="../harness-lanyard-and-srl-prior-to-use-inspection>Harness Lanyard and SRL Prior to Use Inspection</a>
+   	<br><hr><a href="../harness-lanyard-and-srl-prior-to-use-inspection">Harness Lanyard and SRL Prior to Use Inspection</a>
    	<br><hr><a href="../hazardous-awareness">Hazardous Awareness</a>
    	<br><hr><a href="../heat-illness-prevention-plan">Heat Illness Prevention</a>
    	<br><hr><a href="../information-security-and-data-privacy">Information Security and Data Privacy</a>
