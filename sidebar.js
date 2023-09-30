@@ -21,6 +21,7 @@ s.innerHTML = `<br><a href="../767-reccurent">767 Reccurrent</a>
    	<br><hr><a href="../ewis-wiring-practices">EWIS Wiring Practices</a>
    	<br><hr><a href="../ewis">EWIS</a>
    	<br><hr><a href="../fire-extinguisher">Fire Extinguisher</a>
+    	<br><hr><a href="../fod-awareness">FOD Awareness</a>
    	<br><hr><a href="../fuel-service-form">Fuel Service Form</a>
    	<br><hr><a href="../general-ewis-practices">General EWIS Practices</a>
    	<br><hr><a href="../harness-lanyard-and-srl-prior-to-use-inspection">Harness Lanyard and SRL Prior to Use Inspection</a>
@@ -29,6 +30,7 @@ s.innerHTML = `<br><a href="../767-reccurent">767 Reccurrent</a>
    	<br><hr><a href="../information-security-and-data-privacy">Information Security and Data Privacy</a>
 	<br><hr><a href="../llm-awareness">LLM Awareness</a>
 	<br><hr><a href="../managing-waste">Managing Waste</a>
+ 	<br><hr><a href="../melcdl">MEL/CDL</a>
 	<br><hr><a href="../personal-protective-equipment">Personal Protective Equipment</a>
 	<br><hr><a href="../rii-far-initial">RII FAR Initial</a>
 	<br><hr><a href="../rii-recurrent">RII Recurrent</a>
