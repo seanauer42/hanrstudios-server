@@ -11,6 +11,7 @@ s.innerHTML = `<br><a href="../767-reccurent">767 Reccurrent</a>
    	<br><hr><a href="../aircraft-security">Aircraft Security</a>
        	<br><hr><a href="../aml-eaml-training">AML EAML training</a>
    	<br><hr><a href="../cash-program">Cash Program</a>
+    	<br><hr><a href="../crew-rest-module">Crew Rest Module</a>
        	<br><hr><a href="../dangerous-goods-awareness">Dangerous Goods Awareness</a>
    	<br><hr><a href="../environmental-above-ground-storage-tanks">Environmental Above Ground Storage Tanks</a>
        	<br><hr><a href="../etops-awareness">ETOPS Awareness</a>
