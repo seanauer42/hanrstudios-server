@@ -22,6 +22,7 @@ s.innerHTML = `<br><a href="../767-reccurent">767 Reccurrent</a>
    	<br><hr><a href="../ewis-wiring-practices">EWIS Wiring Practices</a>
    	<br><hr><a href="../ewis">EWIS</a>
    	<br><hr><a href="../fire-extinguisher">Fire Extinguisher</a>
+    	<br><hr><a href="../fishpole-hoist">Fishpole Hoist</a>
     	<br><hr><a href="../fod-awareness">FOD Awareness</a>
    	<br><hr><a href="../fuel-service-form">Fuel Service Form</a>
    	<br><hr><a href="../general-ewis-practices">General EWIS Practices</a>
