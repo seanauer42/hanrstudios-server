@@ -1,0 +1,330 @@
+[
+    {
+        "index": 1,
+        "title": "H",
+        "location": "DAYS",
+        "spots": 2,
+        "time": "0700-1730",
+        "mechanics": []
+    },
+    {
+        "index": 2,
+        "title": "C",
+        "location": "DAYS",
+        "spots": 2,
+        "time": "0700-1730",
+        "mechanics": []
+    },
+    {
+        "index": 3,
+        "title": "Q1",
+        "location": "DAYS",
+        "spots": 2,
+        "time": "0700-1730",
+        "mechanics": []
+    },
+    {
+        "index": 4,
+        "title": "D",
+        "location": "DAYS",
+        "spots": 2,
+        "time": "0700-1730",
+        "mechanics": []
+    },
+    {
+        "index": 5,
+        "title": "P",
+        "location": "DAYS",
+        "spots": 3,
+        "time": "0700-1730",
+        "mechanics": []
+    },
+    {
+        "index": 6,
+        "title": "E",
+        "location": "Days",
+        "spots": 2,
+        "time": "0700-1730",
+        "mechanics": []
+    },
+    {
+        "index": 7,
+        "title": "A",
+        "location": "Days",
+        "spots": 3,
+        "time": "0700-1730",
+        "mechanics": []
+    },
+    {
+        "index": 8,
+        "title": "E1",
+        "location": "Days",
+        "spots": 6,
+        "time": "0800-1830",
+        "mechanics": []
+    },
+    {
+        "index": 9,
+        "title": "D",
+        "location": "SWINGS",
+        "spots": 3,
+        "time": "1300-2330",
+        "mechanics": []
+    },
+    {
+        "index": 10,
+        "title": "A",
+        "location": "SWINGS",
+        "spots": 3,
+        "time": "1300-2330",
+        "mechanics": []
+    },
+    {
+        "index": 11,
+        "title": "E",
+        "location": "SWINGS",
+        "spots": 3,
+        "time": "1300-2330",
+        "mechanics": []
+    },
+    {
+        "index": 12,
+        "title": "H",
+        "location": "SWINGS",
+        "spots": 2,
+        "time": "1300-2330",
+        "mechanics": []
+    },
+    {
+        "index": 13,
+        "title": "Q1",
+        "location": "SWINGS",
+        "spots": 2,
+        "time": "1300-2330",
+        "mechanics": []
+    },
+    {
+        "index": 14,
+        "title": "C",
+        "location": "SWINGS",
+        "spots": 3,
+        "time": "1300-2330",
+        "mechanics": []
+    },
+    {
+        "index": 15,
+        "title": "P",
+        "location": "SWINGS",
+        "spots": 2,
+        "time": "1300-2330",
+        "mechanics": []
+    },
+    {
+        "index": 16,
+        "title": "H",
+        "location": "CREW 1 MIDS",
+        "spots": 11,
+        "time": "2100-0730",
+        "mechanics": []
+    },
+    {
+        "index": 17,
+        "title": "E",
+        "location": "CREW 1 MIDS",
+        "spots": 1,
+        "time": "2100-0730",
+        "mechanics": []
+    },
+    {
+        "index": 18,
+        "title": "A",
+        "location": "CREW 1 MIDS",
+        "spots": 1,
+        "time": "2100-0730",
+        "mechanics": []
+    },
+    {
+        "index": 19,
+        "title": "J",
+        "location": "CREW 1 MIDS",
+        "spots": 1,
+        "time": "2200-0630",
+        "mechanics": []
+    },
+    {
+        "index": 20,
+        "title": "C",
+        "location": "CREW 1 MIDS",
+        "spots": 1,
+        "time": "2100-0730",
+        "mechanics": []
+    },
+    {
+        "index": 21,
+        "title": "P",
+        "location": "CREW 1 MIDS",
+        "spots": 1,
+        "time": "2100-0730",
+        "mechanics": []
+    },
+    {
+        "index": 22,
+        "title": "H",
+        "location": "CREW 2 MIDS",
+        "spots": 11,
+        "time": "2100-0730",
+        "mechanics": []
+    },
+    {
+        "index": 23,
+        "title": "E",
+        "location": "CREW 2 MIDS",
+        "spots": 1,
+        "time": "2100-0730",
+        "mechanics": []
+    },
+    {
+        "index": 24,
+        "title": "D",
+        "location": "CREW 2 MIDS",
+        "spots": 1,
+        "time": "2100-0730",
+        "mechanics": []
+    },
+    {
+        "index": 25,
+        "title": "P",
+        "location": "CREW 2 MIDS",
+        "spots": 1,
+        "time": "2100-0730",
+        "mechanics": []
+    },
+    {
+        "index": 26,
+        "title": "K1",
+        "location": "CREW 2 MIDS",
+        "spots": 1,
+        "time": "2200-0630",
+        "mechanics": []
+    },
+    {
+        "index": 27,
+        "title": "Q1",
+        "location": "CREW 2 MIDS",
+        "spots": 1,
+        "time": "2100-0730",
+        "mechanics": []
+    },
+    {
+        "index": 28,
+        "title": "H",
+        "location": "CREW 3 MIDS",
+        "spots": 11,
+        "time": "2100-0730",
+        "mechanics": []
+    },
+    {
+        "index": 29,
+        "title": "C",
+        "location": "CREW 3 MIDS",
+        "spots": 1,
+        "time": "2100-0730",
+        "mechanics": []
+    },
+    {
+        "index": 30,
+        "title": "A",
+        "location": "CREW 3 MIDS",
+        "spots": 1,
+        "time": "2100-0730",
+        "mechanics": []
+    },
+    {
+        "index": 31,
+        "title": "P",
+        "location": "CREW 3 MIDS",
+        "spots": 1,
+        "time": "2100-0730",
+        "mechanics": []
+    },
+    {
+        "index": 32,
+        "title": "E",
+        "location": "CREW 3 MIDS",
+        "spots": 1,
+        "time": "2100-0730",
+        "mechanics": []
+    },
+    {
+        "index": 33,
+        "title": "K1",
+        "location": "CREW 3 MIDS",
+        "spots": 1,
+        "time": "2200-0630",
+        "mechanics": []
+    },
+    {
+        "index": 34,
+        "title": "H",
+        "location": "CREW 4 MIDS",
+        "spots": 11,
+        "time": "2100-0730",
+        "mechanics": []
+    },
+    {
+        "index": 35,
+        "title": "K1",
+        "location": "CREW 4 MIDS",
+        "spots": 1,
+        "time": "2200-0630",
+        "mechanics": []
+    },
+    {
+        "index": 36,
+        "title": "Q1",
+        "location": "CREW 4 MIDS",
+        "spots": 1,
+        "time": "2100-0730",
+        "mechanics": []
+    },
+    {
+        "index": 37,
+        "title": "E",
+        "location": "CREW 4 MIDS",
+        "spots": 1,
+        "time": "2100-0730",
+        "mechanics": []
+    },
+    {
+        "index": 38,
+        "title": "P",
+        "location": "CREW 4 MIDS",
+        "spots": 2,
+        "time": "2100-0730",
+        "mechanics": []
+    },
+    {
+        "index": 39,
+        "title": "D",
+        "location": "CREW 4 MIDS",
+        "spots": 1,
+        "time": "2100-0730",
+        "mechanics": []
+    },
+    {
+        "index": 40,
+        "title": "C",
+        "location": "Ramps Days",
+        "spots": 4,
+        "time": "0700-1730",
+        "mechanics": []
+    },
+    {
+        "index": 41,
+        "title": "D",
+        "location": "Ramps Days",
+        "spots": 3,
+        "time": "0700-1730",
+        "mechanics": []
+    }
+]

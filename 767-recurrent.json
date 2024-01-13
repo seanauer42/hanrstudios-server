@@ -1,0 +1,60 @@
+{
+"quiz": [
+    {
+    "q": "During which test do both the control wheels slowly turn to the right and then to the left?",
+    "a": ["Aileron Servo Test"]
+    },
+    {
+    "q": "During the Flight Director(FD) switch tests, you need to verify whether the pitch bars are UP in the Captain's...",
+    "a": ["Yes"]
+    },
+    {
+    "q": "During testing, once the autopilot disengages and the alarm sounds, what button should you press to silence the alarm?",
+    "a": ["Either of the two A/P Disconnect buttons."]
+    },
+    {
+    "q": "To run the AUTOLAND test, you should ________",
+    "a": ["Attach an MCDP remote control unit to the maintenance port"]
+    },
+    {
+    "q": "According to the Flight Displays shown, are the IRUs aligned?",
+    "a": ["Yes"]
+    },
+    {
+    "q": "Where are the A/P Engage Switches located on the Flight Deck shown?",
+    "a": ["B"]
+    },
+    {
+    "q": "Where is the Captain's Flight Director(FD) Source Select Switch located on the forward panel shown?",
+    "a": ["A"]
+    },
+    {
+    "q": "Once the MCDP is powered ON and switched to display Ground Tests, what switch is used to scroll up or down through the available ground tests?",
+    "a": ["D"]
+    },
+    {
+    "q": "Where is the Autoland Status Annunciator (ASA) located on the forward panel shown?",
+    "a": ["B"]
+    },
+    {
+    "q": "When running the Bus Isolation Test, the EICAS Display becomes inoperative and once the display comes back ON...",
+    "a": ["Press the CONF/MCDP pushbutton"]
+    },
+    {
+    "q": "Once you are finished with the Autoland test, simply unplugging the MCDP Remote Control Unit, switches the MCDP to OFF",
+    "a": ["False"]
+    },
+    {
+    "q": "Which of the following is NOT an additional required LLM system required for conducting LLM operations on a B767 aircraft?",
+    "a": ["Fuel Quantity Systems"]
+    },
+    {
+    "q": "Where is the Autothrottle (A/T) Switch located on the portion of the forward panel shown?",
+    "a": ["B"]
+    },
+    {
+    "q": "After performing maintenance on an LLM autoland component, which of the following ground test is required to certify the aircraft as LLM capable?",
+    "a": ["30 CURRENT FAULT REPORT"]
+    },
+]
+}

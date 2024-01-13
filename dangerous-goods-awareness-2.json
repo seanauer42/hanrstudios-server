@@ -1,0 +1,31 @@
+{
+	"testName": "Dangerous Goods Awareness 2",
+	"noQuestions": 5,
+	"questions": [
+	{
+		"correct": true
+		"q": "Dangerous Goods are defined as meterials that are only hazardous when transported in commerce?"
+		"a": "False"
+	},
+	{
+		"correct": true
+		"q": "The FAA primary mission is to ensure safety compliance in civil aviation"
+		"a": "True"
+	},
+	{
+		"correct": true
+		"q": "The Workbench DG Detail screen is"
+		"a": "Is the first step of identifying items classified as dangerous goods"
+	},
+	{
+		"correct": true
+		"q": "Dry Ice is Carbon Dioxide Solid which dissipates into a colorless and tasteless gas that collects in low spaces and displaces oxygen."
+		"a": "True"
+	},
+	{
+		"correct": true
+		"q": "Potential Dangerous Goods commodities include:"
+		"a": "All of these"
+	}
+	]
+}

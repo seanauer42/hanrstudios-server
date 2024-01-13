@@ -1,0 +1,15 @@
+{
+    "quiz": [
+        {
+        "q": "The aircraft just came out of a “B-Check”. Which statement is true regarding the Pre-Departure Service Check?",
+        "a": ["A PDSC is required prior to the ETOPS flight because the PDSC is not precluded by any other check."]
+        },
+        {
+        "q": "What is the preferred method used to service engine oils?",
+        "a": ["One EQ AMT services the left engine, and another EQ AMT services the right engine."]
+        },
+        {
+
+        }
+    ]
+}
