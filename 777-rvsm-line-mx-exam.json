@@ -1,0 +1,62 @@
+{"quiz": [
+    {
+        "q": "At FL350 Air Traffic Control (ATC) has reported to the flight crew that the aircraft is +425 feet above assigned altitude. Which statement is true?",
+        "a": ["This represents a gross height error. If the problem is not identified(following a test of all the RVSM related parts/systems per table 1) a waviness inspection check must be performed"]
+    },
+    {
+        "q": "The GMM used for the FedEx RVSM policy is:",
+        "a": ["6-5-490"]
+    },
+    {
+        "q": "According to GMM 2-2-201; in order to retain your qualification for RVSM Line Maintenance, the fleet Line...",
+        "a": ["Annually"]
+    },
+    {
+        "q": "According to AMM 34-10-00-2-0, any incidents of gross height-keeping errors on RVSM status...",
+        "a": ["12 hours"]
+    },
+    {
+        "q": "A 777 FIM procedure identifies a faulted Mode Control Panel(MCP)...",
+        "a": ["Refer to the RVSM SYSTEM COMPONENTSS section in AMM 34-10-00-2..."]
+    },
+    {
+        "q": "Special MEL 20-01 can be applied for which of the following reasons",
+        "a": ["All of these"]
+    },
+    {
+        "q": "Your airplane arrives with an Altitude hold problem. You prescribe corrective action, but are not RVSM qualified. Which MELs should be applied?",
+        "a": ["20-01"]
+    },
+    {
+        "q": "In reference to RVSM, what information is contained in the FedEx form M-3585?",
+        "a": ["The RVSM Components/Maintenance Table 1, which lists the AMM Adjutement..."]
+    },
+    {
+        "q": "Of the AMM 24-10-00-2, Table 1 components listed below, which cmoponent requires an additional...",
+        "a": ["Static port"]
+    },
+    {
+        "q": "RVSM separation limits the vertical separation by:",
+        "a": ["1,000 ft"]
+    },
+    {
+        "q": "What are the benefits to FedEx of flying in RVSM Airspace?",
+        "a": ["Reduces fuel cost, access to preferred ROUTES, reduces labor costs"]
+    },
+    {
+        "q": "If you are on a 777 aircraft, how could you quickly determine if the have performed RVSM maintenance?",
+        "a": ["Reference the 777 RVSM Components/Maintenance - Table 1 (FedEx form M-3585) located in the Orange AML"]
+    },
+    {
+        "q": "Which of the following requires an RVSM qualified AMT to return the aircraft to RVSM operation?",
+        "a": ["All of the above"]
+    },
+    {
+        "q": "Reduced Vertical Separtation Minimum (RVSM) Airspace is in any airspace or route between flight level(FL)___ and FL___.",
+        "a": ["290, 410"]
+    },
+    {
+        "q": "Refer to AMM 34-10-00-2, 777 RVSM Components/Maintenance - Table 1. How would a Non-RVSM...",
+        "a": ["Troubleshoot using the FIM, replace the component per AMM 34-21-04-4, FACT the discrepancy, Open a new WRI and apply MEL 20-01 due to Non-RVSM AMT performing RVSM maintenance, and dispatch the aircraft"]
+    }
+]}
