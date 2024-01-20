@@ -9,7 +9,81 @@
         "a": ["One EQ AMT services the left engine, and another EQ AMT services the right engine."]
         },
         {
-
+            "q": "While not all 767’s are operated as ETOPS, all 767’s are maintained to support ETOPS.  There is a process, controlled by MOC and Engineering that will allow for any FedEx 767 to become one of the ETOPS Operational fleet, changing its Equipment code to 72 and showing ETOPS = Yes in workbench.",
+            "a": ["True"]
+        },
+        {
+            "q": "With regard to ETOPS, primary oversight responsibility is a function of",
+            "a": ["AMT's"]
+        },
+        {
+            "q": "Where can you go to find answers to your ETOPS questions?",
+            "a": ["All of these."]
+        },
+        {
+            "q": "Engine oils may be serviced upon aircraft arrival, even though the PDSC may not be accomplished until a later time.",
+            "a": ["True"]
+        },
+        {
+            "q": "The ETOPS portion of the GMM defines how FedEx will conduct its maintenance to support ETOPS. All FedEx personnel involved in, or with the ETOPS program will find this information in GMM Chapter ________.",
+            "a": ["15"]
+        },
+        {
+            "q": "A PDSC was accomplished at 0200z on an aircraft originally scheduled to depart at 0400z. Routing has changed flights, and now the aircraft is not scheduled to depart until 0940z. Will another PDSC be required to dispatch?",
+            "a": ["No, the PDSC is valid for eight (8) hours after accomplishment per GMM 15-6-000."]
+        },
+        {
+            "q": "Engine oil ___________________",
+            "a": ["Must be serviced to “FULL” at the engine oil tank, prior to ETOPS operation."]
+        },
+        {
+            "q": "Which document is used to ensure that only ETOPS parts are installed on ETOPS airplanes?",
+            "a": ["IPC"]
+        },
+        {
+            "q": "The computer system is down. How can you calculate oil consumption?",
+            "a": ["The PDSC has instructions for manually calculating oil consumption."]
+        },
+        {
+            "q": "A Pre-Departure Service Check _____________",
+            "a": ["The final sign-off, signifying the PDSC is accomplished, MUST be by a FedEx Express ETOPS qualified AMT."]
+        },
+        {
+            "q": "You have been tasked with replacement of the left and right engine fuel filters, due to a significant tank entry. What ETOPS specific issue(s) does this represent?",
+            "a": ["Dual maintenance"]
+        },
+        {
+            "q": "Is it necessary to have recurrent training to maintain ETOPS qualification?",
+            "a": ["Yes, annually"]
+        },
+        {
+            "q": "The Pre-Departure Check (PDSC) must be accomplished, no more than ____ hours prior to departure.",
+            "a": ["4"]
+        },
+        {
+            "q": "A NAFE part may be installed on an ETOPS aircraft.",
+            "a": ["True, but only with MOC approval, and the aircraft must not fly ETOPS."]
+        },
+        {
+            "q": "On FedEx forms (Work Cards, PDSC, etc.) ETOPS tasks will be identified by which of the following?",
+            "a": ["By the letters “EQ”"]
+        },
+        {
+            "q": "You have successfully replaced the #1 Engine Anti-Ice Valve on aircraft 850, per AMM 30-21-02-4. The valve tested normal when you performed the Engine Anti-Ice (engine running) System Test, Task 30-21-00-730-804-001. Where would you find the proper ATA Code to sign off the discrepancy?",
+            "a": ["The ATA Specification 2200 Reference Guide"]
+        },
+        {
+            "q": "Reference GMM Chapter 15, which of the following ATA’s represent a Group 1 Significant System?",
+            "a": ["ATA 36-12"]
+        },
+        {
+            "q": "An inbound pilot report states the following: “Tried unsuccessfully to start the APU three times. SAT was -30 C. at FL340.” What are your options as an AMT?",
+            "a": ["Repair or defer the APU. Once repairs have been accomplished, a verification flight must be performed per GMM 15-11-15."]
+        },
+        {
+            "q": "A verification flight is normally required when:",
+            "a": ["All of these."]
         }
+
     ]
 }
