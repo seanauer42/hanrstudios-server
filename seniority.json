@@ -1,0 +1,1280 @@
+[
+    {
+        "local-seniority": 1,
+        "first": "Michael",
+        "last": "Grant",
+        "seniority": 44,
+        "bid_spot": 1,
+        "employee": "73865",
+        "lead": false
+    },
+    {
+        "local-seniority": 2,
+        "first": "Stephen",
+        "last": "Sullivan",
+        "seniority": 46,
+        "bid_spot": 2,
+        "employee": "76993",
+        "lead": false
+    },
+    {
+        "local-seniority": 3,
+        "first": "David",
+        "last": "Dusak",
+        "seniority": 60,
+        "bid_spot": 3,
+        "employee": "95505",
+        "lead": false
+    },
+    {
+        "local-seniority": 4,
+        "first": "Thomas",
+        "last": "Koehler",
+        "seniority": 66,
+        "bid_spot": 3,
+        "employee": "94980",
+        "lead": true
+    },
+    {
+        "local-seniority": 5,
+        "first": "Daniel",
+        "last": "Smith",
+        "seniority": 234,
+        "bid_spot": 3,
+        "employee": "92259",
+        "lead": true
+    },
+    {
+        "local-seniority": 6,
+        "first": "Richard",
+        "last": "Ortega",
+        "seniority": 249,
+        "bid_spot": 3,
+        "employee": "172945",
+        "lead": true
+    },
+    {
+        "local-seniority": 7,
+        "first": "Lewis",
+        "last": "Palmeter",
+        "seniority": 257,
+        "bid_spot": 4,
+        "employee": "181490",
+        "lead": false
+    },
+    {
+        "local-seniority": 8,
+        "first": "Bobby",
+        "last": "Bertoch",
+        "seniority": 267,
+        "bid_spot": 5,
+        "employee": "179298",
+        "lead": false
+    },
+    {
+        "local-seniority": 9,
+        "first": "Michael",
+        "last": "Urick Jr",
+        "seniority": 408,
+        "bid_spot": 6,
+        "employee": "271878",
+        "lead": false
+    },
+    {
+        "local-seniority": 10,
+        "first": "John Jr",
+        "last": "Oot",
+        "seniority": 543,
+        "bid_spot": 7,
+        "employee": "260963",
+        "lead": false
+    },
+    {
+        "local-seniority": 11,
+        "first": "Dennis",
+        "last": "Beaver",
+        "seniority": 560,
+        "bid_spot": 8,
+        "employee": "262263",
+        "lead": false
+    },
+    {
+        "local-seniority": 12,
+        "first": "Scott",
+        "last": "Ewart",
+        "seniority": 569,
+        "bid_spot": 8,
+        "employee": "267839",
+        "lead": true
+    },
+    {
+        "local-seniority": 13,
+        "first": "Jeffrey",
+        "last": "Iozzio",
+        "seniority": 579,
+        "bid_spot": 9,
+        "employee": "108708",
+        "lead": false
+    },
+    {
+        "local-seniority": 14,
+        "first": "Richard",
+        "last": "Marino",
+        "seniority": 581,
+        "bid_spot": 10,
+        "employee": "320016",
+        "lead": false
+    },
+    {
+        "local-seniority": 15,
+        "first": "Michael",
+        "last": "Begora",
+        "seniority": 614,
+        "bid_spot": 11,
+        "employee": "297107",
+        "lead": false
+    },
+    {
+        "local-seniority": 16,
+        "first": "Gary",
+        "last": "Edmonds",
+        "seniority": 619,
+        "bid_spot": 11,
+        "employee": "281352",
+        "lead": true
+    },
+    {
+        "local-seniority": 17,
+        "first": "Christopher",
+        "last": "Kamman",
+        "seniority": 642,
+        "bid_spot": 11,
+        "employee": "353965",
+        "lead": true
+    },
+    {
+        "local-seniority": 18,
+        "first": "Richard",
+        "last": "Creviston",
+        "seniority": 678,
+        "bid_spot": 12,
+        "employee": "377760",
+        "lead": false
+    },
+    {
+        "local-seniority": 19,
+        "first": "Michael",
+        "last": "Downey",
+        "seniority": 681,
+        "bid_spot": 12,
+        "employee": "377756",
+        "lead": true
+    },
+    {
+        "local-seniority": 20,
+        "first": "Eric",
+        "last": "Manahan",
+        "seniority": 682,
+        "bid_spot": 12,
+        "employee": "377764",
+        "lead": true
+    },
+    {
+        "local-seniority": 21,
+        "first": "Chris",
+        "last": "Miller",
+        "seniority": 691,
+        "bid_spot": 13,
+        "employee": "383770",
+        "lead": false
+    },
+    {
+        "local-seniority": 22,
+        "first": "Timothy",
+        "last": "Omalley",
+        "seniority": 737,
+        "bid_spot": 13,
+        "employee": "414958",
+        "lead": true
+    },
+    {
+        "local-seniority": 23,
+        "first": "Troy",
+        "last": "Payne",
+        "seniority": 749,
+        "bid_spot": 13,
+        "employee": "418681",
+        "lead": true
+    },
+    {
+        "local-seniority": 24,
+        "first": "Ryan",
+        "last": "Oliver",
+        "seniority": 777,
+        "bid_spot": 14,
+        "employee": "428898",
+        "lead": false
+    },
+    {
+        "local-seniority": 25,
+        "first": "Timothy",
+        "last": "Docherty",
+        "seniority": 778,
+        "bid_spot": 15,
+        "employee": "428897",
+        "lead": false
+    },
+    {
+        "local-seniority": 26,
+        "first": "Keith",
+        "last": "Guilmet",
+        "seniority": 780,
+        "bid_spot": 16,
+        "employee": "428900",
+        "lead": false
+    },
+    {
+        "local-seniority": 27,
+        "first": "Brian",
+        "last": "Brown",
+        "seniority": 831,
+        "bid_spot": 17,
+        "employee": "445788",
+        "lead": false
+    },
+    {
+        "local-seniority": 28,
+        "first": "Ryan",
+        "last": "Bullock",
+        "seniority": 851,
+        "bid_spot": 17,
+        "employee": "446281",
+        "lead": true
+    },
+    {
+        "local-seniority": 29,
+        "first": "David",
+        "last": "Kistler",
+        "seniority": 903,
+        "bid_spot": 18,
+        "employee": "451780",
+        "lead": false
+    },
+    {
+        "local-seniority": 30,
+        "first": "Craig",
+        "last": "Selke",
+        "seniority": 936,
+        "bid_spot": 19,
+        "employee": "472371",
+        "lead": false
+    },
+    {
+        "local-seniority": 31,
+        "first": "Roy",
+        "last": "Malone",
+        "seniority": 950,
+        "bid_spot": 19,
+        "employee": "454180",
+        "lead": true
+    },
+    {
+        "local-seniority": 32,
+        "first": "Rendal",
+        "last": "Walters",
+        "seniority": 955,
+        "bid_spot": 20,
+        "employee": "300671",
+        "lead": false
+    },
+    {
+        "local-seniority": 33,
+        "first": "Peter",
+        "last": "Lavy",
+        "seniority": 977,
+        "bid_spot": 21,
+        "employee": "164275",
+        "lead": false
+    },
+    {
+        "local-seniority": 34,
+        "first": "John",
+        "last": "O'Neill",
+        "seniority": 986,
+        "bid_spot": 22,
+        "employee": "478766",
+        "lead": false
+    },
+    {
+        "local-seniority": 35,
+        "first": "Juan",
+        "last": "Gonzalez",
+        "seniority": 1001,
+        "bid_spot": 23,
+        "employee": "456112",
+        "lead": false
+    },
+    {
+        "local-seniority": 36,
+        "first": "Paul",
+        "last": "Brown",
+        "seniority": 1028,
+        "bid_spot": 24,
+        "employee": "478949",
+        "lead": false
+    },
+    {
+        "local-seniority": 37,
+        "first": "Eric",
+        "last": "Stoutamyer",
+        "seniority": 1052,
+        "bid_spot": 25,
+        "employee": "498804",
+        "lead": false
+    },
+    {
+        "local-seniority": 38,
+        "first": "Kenneth",
+        "last": "Phillips",
+        "seniority": 1053,
+        "bid_spot": 25,
+        "employee": "297921",
+        "lead": true
+    },
+    {
+        "local-seniority": 39,
+        "first": "Jeffrey",
+        "last": "Lauth",
+        "seniority": 1064,
+        "bid_spot": 26,
+        "employee": "496829",
+        "lead": false
+    },
+    {
+        "local-seniority": 40,
+        "first": "Timothy",
+        "last": "Taylor",
+        "seniority": 1078,
+        "bid_spot": 27,
+        "employee": "524783",
+        "lead": false
+    },
+    {
+        "local-seniority": 41,
+        "first": "Nemat",
+        "last": "Shakoory",
+        "seniority": 1081,
+        "bid_spot": 27,
+        "employee": "550265",
+        "lead": true
+    },
+    {
+        "local-seniority": 42,
+        "first": "Thomas",
+        "last": "Daku",
+        "seniority": 1102,
+        "bid_spot": 28,
+        "employee": "479903",
+        "lead": false
+    },
+    {
+        "local-seniority": 43,
+        "first": "Gregory",
+        "last": "Gaddis",
+        "seniority": 1117,
+        "bid_spot": 29,
+        "employee": "242120",
+        "lead": false
+    },
+    {
+        "local-seniority": 44,
+        "first": "John",
+        "last": "Hiller",
+        "seniority": 1129,
+        "bid_spot": 30,
+        "employee": "457194",
+        "lead": false
+    },
+    {
+        "local-seniority": 45,
+        "first": "David",
+        "last": "Pettit",
+        "seniority": 1145,
+        "bid_spot": 31,
+        "employee": "565337",
+        "lead": false
+    },
+    {
+        "local-seniority": 46,
+        "first": "Scott",
+        "last": "Roller",
+        "seniority": 1147,
+        "bid_spot": 32,
+        "employee": "301082",
+        "lead": false
+    },
+    {
+        "local-seniority": 47,
+        "first": "Jay",
+        "last": "Bradley",
+        "seniority": 1161,
+        "bid_spot": 33,
+        "employee": "376774",
+        "lead": false
+    },
+    {
+        "local-seniority": 48,
+        "first": "Keith",
+        "last": "Newbold",
+        "seniority": 1172,
+        "bid_spot": 34,
+        "employee": "338341",
+        "lead": false
+    },
+    {
+        "local-seniority": 49,
+        "first": "Kenneth",
+        "last": "Morris",
+        "seniority": 1226,
+        "bid_spot": 35,
+        "employee": "553799",
+        "lead": false
+    },
+    {
+        "local-seniority": 50,
+        "first": "David",
+        "last": "Fronczak",
+        "seniority": 1227,
+        "bid_spot": 36,
+        "employee": "565746",
+        "lead": false
+    },
+    {
+        "local-seniority": 51,
+        "first": "Aaron",
+        "last": "Gilbert",
+        "seniority": 1233,
+        "bid_spot": 37,
+        "employee": "632426",
+        "lead": false
+    },
+    {
+        "local-seniority": 52,
+        "first": "James",
+        "last": "Walker",
+        "seniority": 1247,
+        "bid_spot": 38,
+        "employee": "304176",
+        "lead": false
+    },
+    {
+        "local-seniority": 53,
+        "first": "Jon",
+        "last": "Warriner",
+        "seniority": 1249,
+        "bid_spot": 39,
+        "employee": "345846",
+        "lead": false
+    },
+    {
+        "local-seniority": 54,
+        "first": "Jon",
+        "last": "Maish",
+        "seniority": 1276,
+        "bid_spot": 39,
+        "employee": "709122",
+        "lead": true
+    },
+    {
+        "local-seniority": 55,
+        "first": "Terry",
+        "last": "Hugley",
+        "seniority": 1308,
+        "bid_spot": 40,
+        "employee": "638299",
+        "lead": false
+    },
+    {
+        "local-seniority": 56,
+        "first": "Darren",
+        "last": "Smallwood",
+        "seniority": 1325,
+        "bid_spot": 41,
+        "employee": "735197",
+        "lead": false
+    },
+    {
+        "local-seniority": 57,
+        "first": "Gregory",
+        "last": "Turley",
+        "seniority": 1328,
+        "bid_spot": 42,
+        "employee": "677046",
+        "lead": false
+    },
+    {
+        "local-seniority": 58,
+        "first": "Michael",
+        "last": "Baird",
+        "seniority": 1329,
+        "bid_spot": 43,
+        "employee": "454293",
+        "lead": false
+    },
+    {
+        "local-seniority": 59,
+        "first": "Glenn",
+        "last": "Marut",
+        "seniority": 1483,
+        "bid_spot": 44,
+        "employee": "836840",
+        "lead": false
+    },
+    {
+        "local-seniority": 60,
+        "first": "Mark",
+        "last": "Hasz",
+        "seniority": 1517,
+        "bid_spot": 45,
+        "employee": "188675",
+        "lead": false
+    },
+    {
+        "local-seniority": 61,
+        "first": "John",
+        "last": "Clegg",
+        "seniority": 1545,
+        "bid_spot": 46,
+        "employee": "5063196",
+        "lead": false
+    },
+    {
+        "local-seniority": 62,
+        "first": "Jesse",
+        "last": "Avila",
+        "seniority": 1552,
+        "bid_spot": 47,
+        "employee": "707322",
+        "lead": false
+    },
+    {
+        "local-seniority": 63,
+        "first": "James",
+        "last": "Malone",
+        "seniority": 1563,
+        "bid_spot": 48,
+        "employee": "676480",
+        "lead": false
+    },
+    {
+        "local-seniority": 64,
+        "first": "Matthew",
+        "last": "Horine",
+        "seniority": 1596,
+        "bid_spot": 49,
+        "employee": "5098179",
+        "lead": false
+    },
+    {
+        "local-seniority": 65,
+        "first": "Stephen",
+        "last": "Glass",
+        "seniority": 1600,
+        "bid_spot": 50,
+        "employee": "5009521",
+        "lead": false
+    },
+    {
+        "local-seniority": 66,
+        "first": "Kevin",
+        "last": "Semon",
+        "seniority": 1641,
+        "bid_spot": 51,
+        "employee": "884118",
+        "lead": false
+    },
+    {
+        "local-seniority": 67,
+        "first": "Mesfin",
+        "last": "Ghaim",
+        "seniority": 1657,
+        "bid_spot": 52,
+        "employee": "5192322",
+        "lead": false
+    },
+    {
+        "local-seniority": 68,
+        "first": "Jose",
+        "last": "Munguia",
+        "seniority": 1751,
+        "bid_spot": 53,
+        "employee": "811819",
+        "lead": false
+    },
+    {
+        "local-seniority": 69,
+        "first": "Carlos",
+        "last": "Cuyan",
+        "seniority": 1752,
+        "bid_spot": 54,
+        "employee": "813271",
+        "lead": false
+    },
+    {
+        "local-seniority": 70,
+        "first": "Kevin",
+        "last": "Acedo",
+        "seniority": 1756,
+        "bid_spot": 55,
+        "employee": "672581",
+        "lead": false
+    },
+    {
+        "local-seniority": 71,
+        "first": "Nathan",
+        "last": "Weber",
+        "seniority": 1775,
+        "bid_spot": 56,
+        "employee": "5180016",
+        "lead": false
+    },
+    {
+        "local-seniority": 72,
+        "first": "Matthew",
+        "last": "Fischer",
+        "seniority": 1780,
+        "bid_spot": 57,
+        "employee": "3641385",
+        "lead": false
+    },
+    {
+        "local-seniority": 73,
+        "first": "Eric",
+        "last": "Hartman",
+        "seniority": 1794,
+        "bid_spot": 58,
+        "employee": "3646535",
+        "lead": false
+    },
+    {
+        "local-seniority": 74,
+        "first": "Christopher",
+        "last": "Derycke",
+        "seniority": 1822,
+        "bid_spot": 59,
+        "employee": "862587",
+        "lead": false
+    },
+    {
+        "local-seniority": 75,
+        "first": "Daniel",
+        "last": "Torres",
+        "seniority": 1867,
+        "bid_spot": 59,
+        "employee": "3738578",
+        "lead": true
+    },
+    {
+        "local-seniority": 76,
+        "first": "Darren",
+        "last": "Beanland",
+        "seniority": 1903,
+        "bid_spot": 60,
+        "employee": "3749867",
+        "lead": false
+    },
+    {
+        "local-seniority": 77,
+        "first": "Norman",
+        "last": "Zile",
+        "seniority": 1911,
+        "bid_spot": 61,
+        "employee": "3756659",
+        "lead": false
+    },
+    {
+        "local-seniority": 78,
+        "first": "Alexander",
+        "last": "Haase",
+        "seniority": 1943,
+        "bid_spot": 62,
+        "employee": "3805800",
+        "lead": false
+    },
+    {
+        "local-seniority": 79,
+        "first": "Ruben",
+        "last": "McDowell",
+        "seniority": 1970,
+        "bid_spot": 63,
+        "employee": "3870872",
+        "lead": false
+    },
+    {
+        "local-seniority": 80,
+        "first": "Kegan",
+        "last": "McCauley",
+        "seniority": 2001,
+        "bid_spot": 64,
+        "employee": "754863",
+        "lead": false
+    },
+    {
+        "local-seniority": 81,
+        "first": "Cole",
+        "last": "Luedeman",
+        "seniority": 2009,
+        "bid_spot": 65,
+        "employee": "3950786",
+        "lead": false
+    },
+    {
+        "local-seniority": 82,
+        "first": "Adam",
+        "last": "Taylor",
+        "seniority": 2011,
+        "bid_spot": 66,
+        "employee": "3656070",
+        "lead": false
+    },
+    {
+        "local-seniority": 83,
+        "first": "Richard",
+        "last": "Martin",
+        "seniority": 2019,
+        "bid_spot": 67,
+        "employee": "637288",
+        "lead": false
+    },
+    {
+        "local-seniority": 84,
+        "first": "Jonathan",
+        "last": "Allison",
+        "seniority": 2028,
+        "bid_spot": 68,
+        "employee": "3656854",
+        "lead": false
+    },
+    {
+        "local-seniority": 85,
+        "first": "Christopher",
+        "last": "Connell",
+        "seniority": 2029,
+        "bid_spot": 69,
+        "employee": "3811808",
+        "lead": false
+    },
+    {
+        "local-seniority": 86,
+        "first": "Shawn",
+        "last": "Connors",
+        "seniority": 2066,
+        "bid_spot": 70,
+        "employee": "918966",
+        "lead": false
+    },
+    {
+        "local-seniority": 87,
+        "first": "Brian",
+        "last": "Hutto",
+        "seniority": 2077,
+        "bid_spot": 71,
+        "employee": "3918064",
+        "lead": false
+    },
+    {
+        "local-seniority": 88,
+        "first": "Ramon",
+        "last": "Lantigua",
+        "seniority": 2092,
+        "bid_spot": 72,
+        "employee": "3728356",
+        "lead": false
+    },
+    {
+        "local-seniority": 89,
+        "first": "Chad",
+        "last": "Comer",
+        "seniority": 2098,
+        "bid_spot": 73,
+        "employee": "3902606",
+        "lead": false
+    },
+    {
+        "local-seniority": 90,
+        "first": "Oscar",
+        "last": "Romo",
+        "seniority": 2105,
+        "bid_spot": 74,
+        "employee": "3695723",
+        "lead": false
+    },
+    {
+        "local-seniority": 91,
+        "first": "Nicholas",
+        "last": "Maldonado",
+        "seniority": 2131,
+        "bid_spot": 75,
+        "employee": "764259",
+        "lead": false
+    },
+    {
+        "local-seniority": 92,
+        "first": "Anthony",
+        "last": "Digiannantoni",
+        "seniority": 2136,
+        "bid_spot": 76,
+        "employee": "3994371",
+        "lead": false
+    },
+    {
+        "local-seniority": 93,
+        "first": "Christopher",
+        "last": "Wilson",
+        "seniority": 2137,
+        "bid_spot": 77,
+        "employee": "4108522",
+        "lead": false
+    },
+    {
+        "local-seniority": 94,
+        "first": "CHAD",
+        "last": "MEYER",
+        "seniority": 2140,
+        "bid_spot": 78,
+        "employee": "4457742",
+        "lead": false
+    },
+    {
+        "local-seniority": 95,
+        "first": "Brian",
+        "last": "Allen",
+        "seniority": 2141,
+        "bid_spot": 79,
+        "employee": "4450825",
+        "lead": false
+    },
+    {
+        "local-seniority": 96,
+        "first": "Sean",
+        "last": "Hanauer",
+        "seniority": 2142,
+        "bid_spot": 80,
+        "employee": "4457741",
+        "lead": false
+    },
+    {
+        "local-seniority": 97,
+        "first": "ADAM",
+        "last": "JUNE",
+        "seniority": 2143,
+        "bid_spot": 81,
+        "employee": "4439282",
+        "lead": false
+    },
+    {
+        "local-seniority": 98,
+        "first": "Mitchell",
+        "last": "Shaffer",
+        "seniority": 2144,
+        "bid_spot": 82,
+        "employee": "4450772",
+        "lead": false
+    },
+    {
+        "local-seniority": 99,
+        "first": "jayden",
+        "last": "weaver",
+        "seniority": 2145,
+        "bid_spot": 83,
+        "employee": "4450805",
+        "lead": false
+    },
+    {
+        "local-seniority": 100,
+        "first": "Branden",
+        "last": "Blackford",
+        "seniority": 2146,
+        "bid_spot": 84,
+        "employee": "4439327",
+        "lead": false
+    },
+    {
+        "local-seniority": 101,
+        "first": "John",
+        "last": "Fielder",
+        "seniority": 2147,
+        "bid_spot": 85,
+        "employee": "4450679",
+        "lead": false
+    },
+    {
+        "local-seniority": 102,
+        "first": "Steven",
+        "last": "Riddell",
+        "seniority": 2148,
+        "bid_spot": 86,
+        "employee": "4457743",
+        "lead": false
+    },
+    {
+        "local-seniority": 103,
+        "first": "Charles",
+        "last": "Ponder",
+        "seniority": 2149,
+        "bid_spot": 87,
+        "employee": "4450710",
+        "lead": false
+    },
+    {
+        "local-seniority": 104,
+        "first": "Daniel",
+        "last": "Trevino",
+        "seniority": 2169,
+        "bid_spot": 88,
+        "employee": "312291",
+        "lead": false
+    },
+    {
+        "local-seniority": 105,
+        "first": "Jesse",
+        "last": "Whitaker",
+        "seniority": 2172,
+        "bid_spot": 89,
+        "employee": "872354",
+        "lead": false
+    },
+    {
+        "local-seniority": 106,
+        "first": "CLAY",
+        "last": "ALWARD",
+        "seniority": 2173,
+        "bid_spot": 90,
+        "employee": "912837",
+        "lead": false
+    },
+    {
+        "local-seniority": 107,
+        "first": "Nathan",
+        "last": "Pickering",
+        "seniority": 2187,
+        "bid_spot": 91,
+        "employee": "4095071",
+        "lead": false
+    },
+    {
+        "local-seniority": 108,
+        "first": "Jacob",
+        "last": "Jones",
+        "seniority": 2188,
+        "bid_spot": 92,
+        "employee": "3917710",
+        "lead": false
+    },
+    {
+        "local-seniority": 109,
+        "first": "Spencer",
+        "last": "Todd",
+        "seniority": 2189,
+        "bid_spot": 93,
+        "employee": "4226678",
+        "lead": false
+    },
+    {
+        "local-seniority": 110,
+        "first": "Hayden",
+        "last": "Nelson",
+        "seniority": 2205,
+        "bid_spot": 94,
+        "employee": "3874316",
+        "lead": false
+    },
+    {
+        "local-seniority": 111,
+        "first": "Austin",
+        "last": "Albers",
+        "seniority": 2212,
+        "bid_spot": 95,
+        "employee": "3801863",
+        "lead": false
+    },
+    {
+        "local-seniority": 112,
+        "first": "Juan",
+        "last": "Gopar",
+        "seniority": 2221,
+        "bid_spot": 96,
+        "employee": "5292123",
+        "lead": false
+    },
+    {
+        "local-seniority": 113,
+        "first": "Daniel",
+        "last": "Parshley",
+        "seniority": 2222,
+        "bid_spot": 97,
+        "employee": "4737031",
+        "lead": false
+    },
+    {
+        "local-seniority": 114,
+        "first": "Anthony",
+        "last": "Torcasio",
+        "seniority": 2223,
+        "bid_spot": 98,
+        "employee": "4739778",
+        "lead": false
+    },
+    {
+        "local-seniority": 115,
+        "first": "Kenneth",
+        "last": "Wooten",
+        "seniority": 2224,
+        "bid_spot": 99,
+        "employee": "5282351",
+        "lead": false
+    },
+    {
+        "local-seniority": 116,
+        "first": "Christopher",
+        "last": "Johnson",
+        "seniority": 2225,
+        "bid_spot": 100,
+        "employee": "4753210",
+        "lead": false
+    },
+    {
+        "local-seniority": 117,
+        "first": "Romualdo",
+        "last": "Garcia",
+        "seniority": 2226,
+        "bid_spot": 101,
+        "employee": "4739726",
+        "lead": false
+    },
+    {
+        "local-seniority": 118,
+        "first": "BENJAMIN",
+        "last": "ROBBINS",
+        "seniority": 2227,
+        "bid_spot": 102,
+        "employee": "4743008",
+        "lead": false
+    },
+    {
+        "local-seniority": 119,
+        "first": "Spencer",
+        "last": "Hachandi",
+        "seniority": 2228,
+        "bid_spot": 103,
+        "employee": "4742908",
+        "lead": false
+    },
+    {
+        "local-seniority": 120,
+        "first": "Jared",
+        "last": "Turner",
+        "seniority": 2229,
+        "bid_spot": 104,
+        "employee": "5073690",
+        "lead": false
+    },
+    {
+        "local-seniority": 121,
+        "first": "Daniel",
+        "last": "Golden",
+        "seniority": 2230,
+        "bid_spot": 105,
+        "employee": "3709759",
+        "lead": false
+    },
+    {
+        "local-seniority": 122,
+        "first": "Alexander",
+        "last": "Gaddis",
+        "seniority": 2231,
+        "bid_spot": 106,
+        "employee": "2881422",
+        "lead": false
+    },
+    {
+        "local-seniority": 123,
+        "first": "Phillip",
+        "last": "Kozlowski",
+        "seniority": 2233,
+        "bid_spot": 107,
+        "employee": "4747404",
+        "lead": false
+    },
+    {
+        "local-seniority": 124,
+        "first": "Darious",
+        "last": "Allen",
+        "seniority": 2238,
+        "bid_spot": 108,
+        "employee": "4028664",
+        "lead": false
+    },
+    {
+        "local-seniority": 125,
+        "first": "Manuel",
+        "last": "Ruiz Romero",
+        "seniority": 2239,
+        "bid_spot": 109,
+        "employee": "489655",
+        "lead": false
+    },
+    {
+        "local-seniority": 126,
+        "first": "Brett",
+        "last": "Johnson",
+        "seniority": 2241,
+        "bid_spot": 110,
+        "employee": "4748653",
+        "lead": false
+    },
+    {
+        "local-seniority": 127,
+        "first": "Antwane",
+        "last": "Gaines",
+        "seniority": 2243,
+        "bid_spot": 111,
+        "employee": "702601",
+        "lead": false
+    },
+    {
+        "local-seniority": 128,
+        "first": "Jonathan",
+        "last": "Perez",
+        "seniority": 2244,
+        "bid_spot": 112,
+        "employee": "966972",
+        "lead": false
+    },
+    {
+        "local-seniority": 129,
+        "first": "Christopher",
+        "last": "Gonzalez",
+        "seniority": 2245,
+        "bid_spot": 113,
+        "employee": "3629286",
+        "lead": false
+    },
+    {
+        "local-seniority": 130,
+        "first": "JOHN",
+        "last": "SANDERS",
+        "seniority": 2249,
+        "bid_spot": 114,
+        "employee": "4872430",
+        "lead": false
+    },
+    {
+        "local-seniority": 131,
+        "first": "Jumal",
+        "last": "Hawkins",
+        "seniority": 2251,
+        "bid_spot": 115,
+        "employee": "3010245",
+        "lead": false
+    },
+    {
+        "local-seniority": 132,
+        "first": "Joseph",
+        "last": "Rolfsmeyer",
+        "seniority": 2255,
+        "bid_spot": 116,
+        "employee": "4874837",
+        "lead": false
+    },
+    {
+        "local-seniority": 133,
+        "first": "Matthew",
+        "last": "Hawn",
+        "seniority": 2256,
+        "bid_spot": 117,
+        "employee": "4866754",
+        "lead": false
+    },
+    {
+        "local-seniority": 134,
+        "first": "Matthew",
+        "last": "Booker",
+        "seniority": 2258,
+        "bid_spot": 118,
+        "employee": "4872414",
+        "lead": false
+    },
+    {
+        "local-seniority": 135,
+        "first": "Keith",
+        "last": "Bergman",
+        "seniority": 2259,
+        "bid_spot": 119,
+        "employee": "4874915",
+        "lead": false
+    },
+    {
+        "local-seniority": 136,
+        "first": "Guthrie",
+        "last": "Nuttall",
+        "seniority": 2260,
+        "bid_spot": 120,
+        "employee": "4874724",
+        "lead": false
+    },
+    {
+        "local-seniority": 137,
+        "first": "John",
+        "last": "Mason",
+        "seniority": 2261,
+        "bid_spot": 121,
+        "employee": "5181790",
+        "lead": false
+    },
+    {
+        "local-seniority": 138,
+        "first": "Bradley",
+        "last": "Wilson",
+        "seniority": 2263,
+        "bid_spot": 122,
+        "employee": "4866850",
+        "lead": false
+    },
+    {
+        "local-seniority": 139,
+        "first": "Garrett",
+        "last": "Logan",
+        "seniority": 2264,
+        "bid_spot": 123,
+        "employee": "4876594",
+        "lead": false
+    },
+    {
+        "local-seniority": 140,
+        "first": "Adam",
+        "last": "Thacker",
+        "seniority": 2265,
+        "bid_spot": 124,
+        "employee": "524071",
+        "lead": false
+    },
+    {
+        "local-seniority": 141,
+        "first": "Douglas",
+        "last": "Lamons",
+        "seniority": 2266,
+        "bid_spot": 125,
+        "employee": "2831128",
+        "lead": false
+    },
+    {
+        "local-seniority": 142,
+        "first": "Kendrick",
+        "last": "Dang",
+        "seniority": 2267,
+        "bid_spot": 126,
+        "employee": "4870773",
+        "lead": false
+    }
+]
