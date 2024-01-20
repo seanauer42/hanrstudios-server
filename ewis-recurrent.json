@@ -1,0 +1,22 @@
+{"quiz": [
+    {
+        "q": "An analytical procedure that identifies the physical and environmental conditions...",
+        "a": ["Enhanced Zonal Analysis Procedure"]
+    },
+    {
+        "q": "When inspecting drip loops, the minimum bend radius is how many times the diameter of the largest wire or cable",
+        "a": ["NOT 5 times"]
+    },
+    {
+        "q": "The Goal of the General Visual Inspection is to verify the integrity of all wire installations in a thorough manner, without inducing additional damage as a result of the inspection",
+        "a": ["True"]
+    },
+    {
+        "q": "When inspecting clamping points, what should you be looking for",
+        "a": ["All of these"]
+    },
+    {
+        "q": "An intensive examination of a specific item, installation, or assembly to detect damage, failure, or irregularity is what type of inspection?",
+        "a": ["Detailed Inspection"]
+    }
+]}
