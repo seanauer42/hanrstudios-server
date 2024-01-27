@@ -1,11 +1,12 @@
 import json
 import os
 
+# show: employee number, last name, first name, schedule, shift name
 
 file = open("shift-bid-final.txt", "r+")
 lines = file.readlines()
 
-with open("aug-bid.json", "r+") as read_file:
+with open("jan24-bid.json", "r+") as read_file:
 	bid = json.load(read_file)
 
 employees = []
@@ -90,7 +91,7 @@ for index, line in enumerate(lines):
 
 
 #replace old bid json file with new file
-if os.path.exists("aug-bid.json"):
-    os.remove("aug-bid.json")
-with open("aug-bid.json", "a") as outfile:
+if os.path.exists("jan24-bid.json"):
+    os.remove("jan24-bid.json")
+with open("jan24-bid.json", "a") as outfile:
     json.dump(bid, outfile, indent=4)

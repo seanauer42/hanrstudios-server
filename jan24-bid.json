@@ -5,7 +5,10 @@
         "location": "DAYS",
         "spots": 2,
         "time": "0700-1730",
-        "mechanics": []
+        "mechanics": [
+            "76993",
+            "95505"
+        ]
     },
     {
         "index": 2,
@@ -13,7 +16,10 @@
         "location": "DAYS",
         "spots": 2,
         "time": "0700-1730",
-        "mechanics": []
+        "mechanics": [
+            "632426",
+            "345846"
+        ]
     },
     {
         "index": 3,
@@ -21,7 +27,10 @@
         "location": "DAYS",
         "spots": 2,
         "time": "0700-1730",
-        "mechanics": []
+        "mechanics": [
+            "3994371",
+            "4457741"
+        ]
     },
     {
         "index": 4,
@@ -29,7 +38,10 @@
         "location": "DAYS",
         "spots": 2,
         "time": "0700-1730",
-        "mechanics": []
+        "mechanics": [
+            "376774",
+            "565746"
+        ]
     },
     {
         "index": 5,
@@ -37,7 +49,11 @@
         "location": "DAYS",
         "spots": 3,
         "time": "0700-1730",
-        "mechanics": []
+        "mechanics": [
+            "918966",
+            "872354",
+            "912837"
+        ]
     },
     {
         "index": 6,
@@ -69,7 +85,11 @@
         "location": "SWINGS",
         "spots": 3,
         "time": "1300-2330",
-        "mechanics": []
+        "mechanics": [
+            "3656070",
+            "3811808",
+            "4457743"
+        ]
     },
     {
         "index": 10,
@@ -77,7 +97,11 @@
         "location": "SWINGS",
         "spots": 3,
         "time": "1300-2330",
-        "mechanics": []
+        "mechanics": [
+            "4450805",
+            "4450710",
+            "4753210"
+        ]
     },
     {
         "index": 11,
@@ -85,7 +109,11 @@
         "location": "SWINGS",
         "spots": 3,
         "time": "1300-2330",
-        "mechanics": []
+        "mechanics": [
+            "478766",
+            "479903",
+            "454293"
+        ]
     },
     {
         "index": 12,
@@ -93,7 +121,10 @@
         "location": "SWINGS",
         "spots": 2,
         "time": "1300-2330",
-        "mechanics": []
+        "mechanics": [
+            "377760",
+            "164275"
+        ]
     },
     {
         "index": 13,
@@ -101,7 +132,10 @@
         "location": "SWINGS",
         "spots": 2,
         "time": "1300-2330",
-        "mechanics": []
+        "mechanics": [
+            "754863",
+            "4095071"
+        ]
     },
     {
         "index": 14,
@@ -109,7 +143,11 @@
         "location": "SWINGS",
         "spots": 3,
         "time": "1300-2330",
-        "mechanics": []
+        "mechanics": [
+            "304176",
+            "836840",
+            "3950786"
+        ]
     },
     {
         "index": 15,
@@ -117,7 +155,10 @@
         "location": "SWINGS",
         "spots": 2,
         "time": "1300-2330",
-        "mechanics": []
+        "mechanics": [
+            "4226678",
+            "4739726"
+        ]
     },
     {
         "index": 16,
@@ -125,7 +166,19 @@
         "location": "CREW 1 MIDS",
         "spots": 11,
         "time": "2100-0730",
-        "mechanics": []
+        "mechanics": [
+            "260963",
+            "338341",
+            "3918064",
+            "3902606",
+            "3695723",
+            "764259",
+            "4450825",
+            "3692618",
+            "5292123",
+            "4737031",
+            "3709759"
+        ]
     },
     {
         "index": 17,
@@ -133,7 +186,9 @@
         "location": "CREW 1 MIDS",
         "spots": 1,
         "time": "2100-0730",
-        "mechanics": []
+        "mechanics": [
+            "489655"
+        ]
     },
     {
         "index": 18,
@@ -141,7 +196,9 @@
         "location": "CREW 1 MIDS",
         "spots": 1,
         "time": "2100-0730",
-        "mechanics": []
+        "mechanics": [
+            "4872414"
+        ]
     },
     {
         "index": 19,
@@ -149,7 +206,9 @@
         "location": "CREW 1 MIDS",
         "spots": 1,
         "time": "2200-0630",
-        "mechanics": []
+        "mechanics": [
+            "4874915"
+        ]
     },
     {
         "index": 20,
@@ -157,7 +216,9 @@
         "location": "CREW 1 MIDS",
         "spots": 1,
         "time": "2100-0730",
-        "mechanics": []
+        "mechanics": [
+            "4748653"
+        ]
     },
     {
         "index": 21,
@@ -165,7 +226,9 @@
         "location": "CREW 1 MIDS",
         "spots": 1,
         "time": "2100-0730",
-        "mechanics": []
+        "mechanics": [
+            "4876594"
+        ]
     },
     {
         "index": 22,
@@ -173,7 +236,19 @@
         "location": "CREW 2 MIDS",
         "spots": 11,
         "time": "2100-0730",
-        "mechanics": []
+        "mechanics": [
+            "297107",
+            "383770",
+            "242120",
+            "565337",
+            "677046",
+            "5098179",
+            "5192322",
+            "4108522",
+            "4450679",
+            "3917710",
+            "4739778"
+        ]
     },
     {
         "index": 23,
@@ -181,7 +256,9 @@
         "location": "CREW 2 MIDS",
         "spots": 1,
         "time": "2100-0730",
-        "mechanics": []
+        "mechanics": [
+            "2881422"
+        ]
     },
     {
         "index": 24,
@@ -189,7 +266,9 @@
         "location": "CREW 2 MIDS",
         "spots": 1,
         "time": "2100-0730",
-        "mechanics": []
+        "mechanics": [
+            "3629286"
+        ]
     },
     {
         "index": 25,
@@ -197,7 +276,9 @@
         "location": "CREW 2 MIDS",
         "spots": 1,
         "time": "2100-0730",
-        "mechanics": []
+        "mechanics": [
+            "4866850"
+        ]
     },
     {
         "index": 26,
@@ -205,7 +286,9 @@
         "location": "CREW 2 MIDS",
         "spots": 1,
         "time": "2200-0630",
-        "mechanics": []
+        "mechanics": [
+            "2831128"
+        ]
     },
     {
         "index": 27,
@@ -213,7 +296,9 @@
         "location": "CREW 2 MIDS",
         "spots": 1,
         "time": "2100-0730",
-        "mechanics": []
+        "mechanics": [
+            "4872430"
+        ]
     },
     {
         "index": 28,
@@ -221,7 +306,19 @@
         "location": "CREW 3 MIDS",
         "spots": 11,
         "time": "2100-0730",
-        "mechanics": []
+        "mechanics": [
+            "428898",
+            "498804",
+            "496829",
+            "524783",
+            "735197",
+            "5063196",
+            "4457742",
+            "4439282",
+            "4450772",
+            "4439327",
+            "5282351"
+        ]
     },
     {
         "index": 29,
@@ -229,7 +326,9 @@
         "location": "CREW 3 MIDS",
         "spots": 1,
         "time": "2100-0730",
-        "mechanics": []
+        "mechanics": [
+            "5073690"
+        ]
     },
     {
         "index": 30,
@@ -237,7 +336,9 @@
         "location": "CREW 3 MIDS",
         "spots": 1,
         "time": "2100-0730",
-        "mechanics": []
+        "mechanics": [
+            "4874724"
+        ]
     },
     {
         "index": 31,
@@ -245,7 +346,9 @@
         "location": "CREW 3 MIDS",
         "spots": 1,
         "time": "2100-0730",
-        "mechanics": []
+        "mechanics": [
+            "5181790"
+        ]
     },
     {
         "index": 32,
@@ -253,7 +356,9 @@
         "location": "CREW 3 MIDS",
         "spots": 1,
         "time": "2100-0730",
-        "mechanics": []
+        "mechanics": [
+            "4028664"
+        ]
     },
     {
         "index": 33,
@@ -261,7 +366,9 @@
         "location": "CREW 3 MIDS",
         "spots": 1,
         "time": "2200-0630",
-        "mechanics": []
+        "mechanics": [
+            "4870773"
+        ]
     },
     {
         "index": 34,
@@ -269,7 +376,19 @@
         "location": "CREW 4 MIDS",
         "spots": 11,
         "time": "2100-0730",
-        "mechanics": []
+        "mechanics": [
+            "271878",
+            "472371",
+            "300671",
+            "707322",
+            "676480",
+            "3646535",
+            "3756659",
+            "3805800",
+            "637288",
+            "3874316",
+            "4742908"
+        ]
     },
     {
         "index": 35,
@@ -277,7 +396,9 @@
         "location": "CREW 4 MIDS",
         "spots": 1,
         "time": "2200-0630",
-        "mechanics": []
+        "mechanics": [
+            "524071"
+        ]
     },
     {
         "index": 36,
@@ -285,7 +406,9 @@
         "location": "CREW 4 MIDS",
         "spots": 1,
         "time": "2100-0730",
-        "mechanics": []
+        "mechanics": [
+            "3010245"
+        ]
     },
     {
         "index": 37,
@@ -293,7 +416,9 @@
         "location": "CREW 4 MIDS",
         "spots": 1,
         "time": "2100-0730",
-        "mechanics": []
+        "mechanics": [
+            "4743008"
+        ]
     },
     {
         "index": 38,
@@ -301,7 +426,10 @@
         "location": "CREW 4 MIDS",
         "spots": 2,
         "time": "2100-0730",
-        "mechanics": []
+        "mechanics": [
+            "4747404",
+            "4874837"
+        ]
     },
     {
         "index": 39,
@@ -309,7 +437,9 @@
         "location": "CREW 4 MIDS",
         "spots": 1,
         "time": "2100-0730",
-        "mechanics": []
+        "mechanics": [
+            "4866754"
+        ]
     },
     {
         "index": 40,
