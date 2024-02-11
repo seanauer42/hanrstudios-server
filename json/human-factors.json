@@ -1,0 +1,47 @@
+{"quiz":[
+    {
+        "q": "What are the two models that help us understand key considerations for Human Factors?",
+        "a": ["Design and influence"],
+        "correct": false
+    },
+    {
+        "q": "What are the three C's that represent the three main principles of every communication?",
+        "a": ["Clear, Correct, Complete"],
+        "correct": true
+    },
+    {
+        "q": "What percentage of aviation accidents can be attributed to Human Factors?",
+        "a": ["80%"],
+        "correct": true
+    },
+    {
+        "q": "According to the Circadian Clock, when are we LEAST alert?",
+        "a": ["1:00 A.M. to 3:00 A.M."],
+        "correct": true
+    },
+    {
+        "q": "What is NOT one of the three stages of Situational Awareness?",
+        "a": ["Communicating"],
+        "correct": true
+    },
+    {
+        "q": "Concerning 'Workload', what is the risk of 'Underload'?",
+        "a": ["Attention deteriorates"],
+        "correct": true
+    },
+    {
+        "q": "What are the three key elements of the communication model?",
+        "a": ["Transmit, Receive, Feedback"],
+        "correct": true
+    },
+    {
+        "q": "What term is used for fear of enclosed spaces?",
+        "a": ["Claustrophobia"],
+        "correct": true
+    },
+    {
+        "q": "What are four key aspects of team cohesion, or keeping a team together?",
+        "a": ["communication, Cooperation, Coordination, Mutual Support"],
+        "correct": true
+    }
+]}

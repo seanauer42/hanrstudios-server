@@ -1,1 +1,23 @@
+{"quiz":[
+    {
+        "q": "The time to prepare for an active threat event is before it happens. Which steps below should be part of your preparation?",
+        "a": ["Imagine a threat situation", "plan your escape route", "Rehease your plan"]
+    },
+    {
+        "q": "What actions should you take to protect your own life during an Active Threat Event, depending of the situation?",
+        "a": ["Hide out!", "Take action!", "Get out!"]
+    },
+    {
+        "q": "Imagine a threat situation. Planning your escape route and rehearsing your plan are steps you can take to prepare for your safety in the evenet of an active threat event.",
+        "a": ["True"]
+    },
+    {
+        "q": "What information should be relayed to 9-1-1 dispatchers during an active threat event?",
+        "a": ["The location and description you have of the attacker(s)", "The number of people with you", "The nature of the incident and your specific location", "any information you have about the weapons", "Whether there are injuries"]
+    },
+    {
+        "q": "Which is a correct action you should take upon law enforement's arrival during an Active Threat Event?",
+        "a": ["Hands in the air and fingers spread"]
+    }
 
+]}

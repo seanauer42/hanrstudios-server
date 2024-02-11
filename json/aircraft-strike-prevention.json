@@ -1,0 +1,37 @@
+{"quiz": [
+    {
+        "q": "When driving a lift truck within 50 feet of an aircraft, you must slow down to ____ miles per hour or less.",
+        "a": ["5"]
+    },
+    {
+        "q": "Some elements of Situational Awareness are:",
+        "a": ["All of the above"]
+    },
+    {
+        "q": "Before raising the lift platform of your lift truck, you should:",
+        "a": ["All of the above"]
+    },
+    {
+        "q": "As much as 98% of human error is due to problems with Situational Awareness.",
+        "a": ["False"]
+    },
+    {
+        "q": "Situational Awareness is the ability to maintain awareness of what is happening on the:",
+        "a": ["Aircraft, ramp or hangar, and task."]
+    },
+    {
+        "q": "A Pre-tip Inspection is required to ensure that the equipment is serviceable and that all of the controls work properly.",
+        "a": ["True"]
+    },
+    {
+        "q": "Use a guide person whenever:",
+        "a": ["Any of these occur."]
+    },
+    {
+        "q": "Human Error is defined as inadvertently doing what should have been done.",
+        "a": ["True"]
+    }
+
+],
+"score": 88
+}

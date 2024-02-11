@@ -1,0 +1,52 @@
+{
+    "quiz": [
+    {
+        "q": "The senior manager of FedEx Express locations must appoint a Location Environmentl Coordinator (LEC)",
+        "a": "True"
+    },
+    {
+        "q": "Vehicle washing must be monitored and documented QUARTERLY",
+        "a": "True"
+    },
+    {
+        "q": "Some individual activities at FedEx Express that produce regulated discharges to sanitary serwes and storm water drainage systems include",
+        "a": "All of the above"
+    },
+    {
+        "q": "Corrective actions may be required if sources of storm water pllutants are identified during inspections. If corrective actions are required, the measures taken must be completed, documented, and filed in your Location Environmental File",
+        "a": "True"
+    },
+    {
+        "q": "Oil water separators, trench drains and catch basins must be cleaned at least",
+        "a": "Anually"
+    },
+    {
+        "q": "An EMD Spill report is required",
+        "a": "Within 12 hours of the spill event"
+    },
+    {
+        "q": "To protect water resources and maintain compliance, designated FedEx Express employees need to understand how to initially respond when spill of deicing fluids, oil, fuel, grease, or other pollutants occur",
+        "a": "True"
+    },
+    {
+        "q": "Because spills may occur in these areas, which of the folowing are suggested ocations for spill kits",
+        "a": "All of the above"
+    },
+    {
+        "q": "Phone numbers for the emergency coordinator/senior manager, alternate Emergency coordinators, and EMD Spill Hotline shuld be included on the Emergency Contact List posted at the facility",
+        "a": "True"
+    },
+    {
+        "q": "If a non-package spill occurs that cannot be cleanded up by site personnel, how do you get help from an Emergency Response vendor approved by EMD",
+        "a": "Call the EMD Spill Hotline, 1-877-FXSPILL (1-877-397-7455)"
+    },
+    {
+        "q": "Examples of a release or spill OFF FedEx Property includes leaking fluids from delivery truck accidents or leaking packages at a customer's location",
+        "a": "True"
+    },
+    {
+        "q": "EMD Spill Hotline is available 24 hr./day, 365/days/yr. to mobilize an emergency response vendor",
+        "a": "True"
+    }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "quiz": [
+        {
+            "q": "after the AST is installed, who is responsible for operation, compliance inspections, and record keeping",
+            "a": "location management"
+        },
+        {
+            "q": "When correspondence is received from regulatory agency pertaining to registration or payment of fees fow ASTs, it should be forwarded to Finance for processing",
+            "a": "False"
+        },
+        {
+            "q": "As per FedEx plicy, ASTs are STATIONARY and have a capacity equal to or greater than 55 gallons",
+            "a": "True"
+        },
+        {
+            "q": "As per FedEx policy, containers are PORTABLE OR MOVEABLE and have a capacity equal to or greater than 55 gallons.",
+            "a": "True"
+        },
+        {
+            "q": "ASTs and specified containers must be monitored and inspected for",
+            "a": "Leaks, spills, and overall integrity"
+        },
+        {
+            "q": "At SPCC locations, AST inspection requirements are contained in the SPCC plan",
+            "a": "True"
+        },
+        {
+            "q": "At SPCC locations, where should the AST Inspection Logs be maintained",
+            "a": "in the SPCC plan"
+        },
+        {
+            "q": "At Non-SPCC locations, ASTs and every container with a capacity LARGER than 55 gallons containnig fuel, must be inspected at least monthly using the required EMD form",
+            "a": "True"
+        },
+        {
+            "q": "The monthly AST Inspection forms for non-SPCC locations can be found on",
+            "a": "EMD website"
+        },
+        {
+            "q": "At non-SPCC locations, where should the AST Inspection Logs be maintained",
+            "a": "in the central Location Environmental File"
+        },
+        {
+            "q": "Match the vessels with the appropriate monitoring and inspection requirement",
+            "a": ["Every container [3]", "Every AST [1]", "ASTs and containers contained petroleum [2]"]
+        },
+        {
+            "q": "ASTs must have some form of containment system",
+            "a": "True"
+        },
+        {
+            "q": "Glycol, rainfall and snowmelt found in secondary containment around an AST can be released, because it is not harmful to the environment",
+            "a": "False"
+        },
+        {
+            "q": "Vessels depoyed TEMPORARILY to store during emergency events",
+            "a": "A&B above"
+        },
+        {
+            "q": "One of the most common reasons that companies receive a fine or penalty related to ASTs is",
+            "a": "lack of adequate documentation verifying compliance with inspection requirements"
+        },
+        {
+            "q": "In the event that an AST needs to be closed or removed from service, who would you contact for assistance",
+            "a": "EMD"
+        }
+    ]
+}

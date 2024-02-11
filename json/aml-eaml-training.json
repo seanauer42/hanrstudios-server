@@ -1,0 +1,43 @@
+{"quiz": [
+    {
+        "q": "Which of the following circumstances always require paper entry",
+        "a": ["All of the above"]
+    },
+    {
+        "q": "Where is the normal place to look for the Aircraft Log Book",
+        "a": ["Cockpit"]
+    },
+    {
+        "q": "Prior to initiating any cockpit procedures...",
+        "a": ["True"]
+    },
+    {
+        "q": "The inbound ARD is to remain in the logbook",
+        "a": ["Until a neew valid ARD is printed..."]
+    },
+    {
+        "q": "When an AMT signs or initials an aircraft maintenance document...",
+        "a": ["True"]
+    },
+    {
+        "q": "All paper Aircraft Maintenance Log pages must be retained with the stations copy of the ARD and retained for ",
+        "a": ["60 days"]
+    },
+    {
+        "q": "AML errors can be corrected by erasing, scratching out...",
+        "a": ["False"]
+    },
+    {
+        "q": "A full review of the logbook for missing AML pages is required only when",
+        "a": ["An aircraft is on the ground 2 hours or more and maintenance is performed on the A/C resulting in an updated eMR or printed ARD"]
+    },
+    {
+        "q": "When maintenance personnel perform EAML data entry of a discrepancy",
+        "a": ["Add/modify Discrepancy"]
+    },
+    {
+        "q": "What is used by the AMT to document aircraft maintenance",
+        "a": ["Aircraft Maintenance Log or Electronic Aircraft Maintenance Log"]
+    }
+
+]}

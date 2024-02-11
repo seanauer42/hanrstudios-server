@@ -1,0 +1,29 @@
+{
+    "quiz": [
+    {
+        "q": "Which of the following are considered typical stationary emission sources in maintenance areas",
+        "a": ["paint booth", "parts washer", "storage tank"]
+    },
+    {
+        "q": "Local management is responsible for ensuring that the drivers/operator s of vehicles or equipment are aware of local idling limits and comply with them",
+        "a": "True"
+    },
+    {
+        "q": "The Global Vehicles department is responsible for ensuring that FedEx Express vehicles are properly maintainted and rested as required",
+        "a": "True"
+    },
+    {
+        "q": "In California Vehicle & GSE Fleet managers are Technicians are responsible for ensuring that GSE assets are properly labeled and each remains legible at all times",
+        "a": "True"
+    },
+    {
+        "q": "Lids on parts washer tanks and solvent drums/containers must be kept closed when not in use",
+        "a": "True"
+    },
+    {
+        "q": "Match the type of equipment with the appropriate record-keeping requirement",
+        "a": ["Parts washer [B]", "Paint Booth [A]"]
+    }
+
+    ]
+}

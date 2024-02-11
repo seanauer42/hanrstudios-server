@@ -1,0 +1,43 @@
+{"quiz": [
+    {
+        "q": "Which of the following are NOT areas required to be inspected during the Aircraft Security Checks by maintenance?",
+        "a": ["Flight Deck storage compartments"]
+    },
+    {
+        "q": "What do the letters “NA” in a Serial Number position of the Security Check option, under the Aircraft Status tab of the DCC indicate?",
+        "a": ["The panel is not installed."]
+    },
+    {
+        "q": "Where can you find the policy that describes the installation and documentation of Security Labels, and the completion of the Aircraft Security Check in the DCC Application within Workbench?",
+        "a": ["AMDM 03-0-90"]
+    },
+    {
+        "q": "When inspecting the lavatory, you notice that the security label on the shroud is missing, FedEx Aircraft Maintenance or an authorized vendor must re-inspect the compartment, apply a new Security Label and document its serial number in DCC.",
+        "a": ["True"]
+    },
+    {
+        "q": "What should you do if you find a suspicious item during the Aircraft Security Check?",
+        "a": ["Contact Corporate Security, but do not remove or disturb the item."]
+    },
+    {
+        "q": "What is required, if there is no stock of Security Labels, or the application of a label would result in a delay? ",
+        "a": ["All of these."]
+    },
+    {
+        "q": "Who is responsible for the positive control of the numbered security labels after being issued to aircraft maintenance?",
+        "a": ["Aircraft Maintenance Management"]
+    },
+    {
+        "q": "All FedEx Express trunk aircraft with access doors or panels that may reasonably be opened with a screwdriver or Allen wrench, and which are accessible from the ground without using a ladder, must be inspected for contraband when performing an Aircraft Security Check.",
+        "a": ["True"]
+    },
+    {
+        "q": "If there is any evidence of tampering to a Security Label, what must be done?",
+        "a": ["A FedEx Aircraft Maintenance Technician or an authorized vendor must re-inspect the compartment, apply a new Security Label, and document its serial number in DCC."]
+    },
+    {
+        "q": "When conducting the Aircraft Security Check, you are looking for contraband. What is considered to be contraband?",
+        "a": ["All of these"]
+    }
+
+]}

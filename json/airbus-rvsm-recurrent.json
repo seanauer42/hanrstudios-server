@@ -1,0 +1,63 @@
+{"quiz": [
+    {
+        "q": "at fl 350 ATC has reported to the flight crew on a/c 668 that the aircraft is +425 ft",
+        "a": ["This represents a gross height error. if the problem is not identified(following test of all RVSM-related parts/sstems per Table 1)..."]
+    },
+    {
+        "q": "The Captain's pitot probe(41DA) has been replaced for routine maintenence per AMM 34-11-15-05",
+        "a": ["False unless there is reported skin damage around the pitot probe"]
+    },
+    {
+        "q": "You changed a component that is listed as a LLM unit and RVSM unit...",
+        "a": ["True"]
+    },
+    {
+        "q": "Reduced Vertical Separation Minimums(RVSM) training is found in:",
+        "a": ["GMM 2-2-201 (2201)"]
+    },
+    {
+        "q": "The metric altimeter(52FL) was replaced on A/C 729. Which of the following is true?",
+        "a": ["No RVSM testing is required since the part is not a RVSM component, however, the applicable.."]
+    },
+    {
+        "q": "Static probe heater on the left side of the fuselage on aircraft 690",
+        "a": ["Maintenance to the static probe heater may be tested by a RVSM Qualified AMT(M54RV01) requires inspection, RII must have waviness rating"]
+    },
+    {
+        "q": "The A300/A310 RVSM line maintenance qualification is valid",
+        "a": ["For One year"]
+    },
+    {
+        "q": "If you have A300/A310 RVSM qualification code M54RV00",
+        "a": ["You are skin waviness qualified"]
+    },
+    {
+        "q": "anytime ther eis a problem assosciated with teh Static Probe area, a waviness inspection/check",
+        "a": ["true"]
+    },
+    {
+        "q": "Global operations control must be contacted any time the RVSM status is changed",
+        "a": ["true"]
+    },
+    {
+        "q": "the flight crew on A/C 692 reported a TCAS malfunction while in flight. When performing a TCAS exteded test( ref AMM 34-44-00-05)...",
+        "a": ["False"]
+    },
+    {
+        "q": "A list of components that require RVSM qualifiaction and the component's assosciated",
+        "a": ["GMM 6-5-; GMM 2-2-202"]
+    },
+    {
+        "q": "gross height keeping error is defined as",
+        "a": ["All of the these"]
+    },
+    {
+        "q": "the standby Alpha Probe(27CC) has been replaced. an RVSM Qualified AMT can return the aircraft",
+        "a": ["AMM 34-11"]
+    },
+    {
+        "q": "The red line border that surrounds the static probes on the left side of the fuselage",
+        "a": [""]
+    }
+
+]}
