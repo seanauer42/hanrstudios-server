@@ -1,0 +1,84 @@
+{
+    "quiz": [
+        {
+        "q": "After you finish running the AFS Test and the Landing Test, you need to complete the Inertial Reference System (IRS) alignment procedure.",
+        "a": ["False"]
+        },
+        {
+        "q": "To display the Flight History, press and hold the YES and NO pushbuttons, and while keeping YES and NO depressed, also press the DISPLAY pushbutton.",
+        "a": ["True"]
+        },
+        {
+            "q": "According to the image shown, what switch should you press first to begin powering ON the hydraulic systems?",
+            "a": ["The ELEC PUMPS switch labeled as B."]
+        },
+        {
+            "q": "At the conclusion of the AFS Test, the message “ADS1 FLAG” is displayed. The AMT should:",
+            "a": ["Review the flight deck set up, then perform the AFS Test again. If the problem disappears, the AFS Test must be performed again, after another flight. If the problem repeats, the appropriate Alpha Probe must be replaced."]
+        },
+        {
+            "q": "During the previous flight the Pilot reported that the ATS would not stay engaged.  Pressing the DISPLAY P/BSW on the MTP (3CU) has revealed the displayed messages using numbers and letters.  The number (1) represents the event during the last flight leg.  What do the letters represent?",
+            "a": ["The probability order of failed components is shown from highest probability to second probability to third probability.  Perform an AFS test to determine failure(s)."]
+        },
+        {
+            "q": "When running the Display Sequence Test, what should you do based on the display window shown?",
+            "a": ["Perform the AFS Test at the AFS MTP"]
+        },
+        {
+            "q": "According to the display window shown, where would you perform the current step indicated?",
+            "a": ["Engage switch labeled C."]
+        },
+        {
+            "q": "What component is the primary interface between the Flight Crew and the Autopilot/Auto Throttle systems?",
+            "a": ["Flight Control Unit (FCU)"]
+        },
+        {
+            "q": "To reset the 30-day Periodic Autoland Timer:",
+            "a": ["Perform AMM 22-40-00-05, paragraphs A (AFS Test) and B (Land Test and Autoland Lights Test)."]
+        },
+        {
+            "q": "During the LAND test the AMT is told to engage YAW DAMPER 2 and PITCH TRIM 2 prior to engaging YAW DAMPER/PITCH TRIM 1.  What is the reasoning for this specific engagement process?",
+            "a": ["Since system 1 has mechanical priority over system 2, this allows the AFS to validate proper #2 FAC operation and engagement of the #2 YAW DAMPER/PITCH TRIM."]
+        },
+        {
+            "q": "According to the display window shown, where would you perform the current indicated step?",
+            "a": ["Engage the switch labeled A."]
+        },
+        {
+            "q": "Some MTPs (3CU) use a FAILURE RECORD magnetic annunciator (tri-foil), while others use a white LED.  When the magnetic annunciator becomes black and white, or if the white LED is illuminated, what is the significance of the indicator?",
+            "a": ["The AFS FIDS (fault isolation detection system) has detected a fault on the last flight."]
+        },
+        {
+            "q": "The AFS/LAND test must be accomplished to return to the aircraft to LLM operation anytime a Table 201 LLM System Component is replaced.",
+            "a": ["False"]
+        },
+        {
+            "q": "Assume that you just set all three MSUs to NAV position. Now at the CDU, what key do you press to access the Initialization page?",
+            "a": ["Key labeled as B."]
+        },
+        {
+            "q": "Which Axis of flight is inoperative when the AP is engaged in CWS?",
+            "a": ["Yaw"]
+        },
+        {
+            "q": "The Yaw Damper Actuator (22CA) is not active unless, AP1 or 2 is engaged in CMD and the Slats are extended to 17° degrees or greater (typically a landing configuration).",
+            "a": ["True"]
+        },
+        {
+            "q": "All three AP Actuators, Pitch (18CA), Roll (20CA), and Yaw (22CA) are the same part number and are interchangeable.",
+            "a": ["True"]
+        },
+        {
+            "q": "The AP Pitch Actuator (18CA) has been replaced in your station.  Is it FedEx Mandatory to pressurize all three hydraulic systems during the AFS/LAND test?",
+            "a": ["Yes.  All three hydraulic systems must be pressurized."]
+        },
+        {
+            "q": "The Trouble Shooting Manual (TSM) provides guidance to isolate and correct LLM related faults.",
+            "a": ["True"]
+        },
+        {
+            "q": "Which LLM Table 201 System Component may not be swapped for trouble shooting purposes?",
+            "a": ["Slat/Flap Control Computer (21CV/22CV)."]
+        }
+    ]
+}
